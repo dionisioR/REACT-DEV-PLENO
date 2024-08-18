@@ -1,0 +1,68 @@
+https://www.youtube.com/watch?v=QP0yCFlvUr8&ab_channel=Ci%C3%AAnciaSemFim   2:40
+https://codesandbox.io/
+-----------------------------------------------
+
+Extensão recomendada:
+ Babel ES6/ES7
+
+-----------------------------------------------
+YARN
+Para instalar:
+- https://yarnpkg.com/en/docs/install
+
+Alguns comandos e sua equivalência:
+- yarn (equivalente ao npm install)
+- yarn add nomeModulo (equivalente ao npm install --save nomeModulo)
+- yarn add --dev nomeModulo (equivalente ao npm install --save-dev nomeModulo)
+
+----------------------------------------------
+Aula 06 - Projeto Minhas Séries
+
+npm install react-router-dom@5.1.2   OBS: Está versão não funcionou
+No curso é utilizado: 
+--- React 16.8.6
+--- React-Router-Dom: 5.1.2
+
+No Meu PC
+--- React 18.2.0
+--- React-Router-Dom: 5.1.2 [Não Funcionou] Tive que atualizar para 5.3.4
+
+
+
+Link do Servidor: https://github.com/devpleno/minhas-series-server
+- Instalando o servidor como dependência do projeto:
+>>> npm install https://github.com/devpleno/minhas-series-server
+
+
+
+
+- REACTSTRAP
+https://reactstrap.github.io/?path=/story/home-installation--page
+
+# Criando o projeto
+>>> npx create-react-app nomeDoProjeto
+
+# Instalando o Bootstrap
+>>> npm install bootstrap
+
+# Instalando o ReactStrap
+>>> npm install reactstrap
+
+# Instalando React-Router-Dom
+>>> npm install react-router-dom
+
+# Instalando o AXIOS [Responsável por pegar os dados]
+>>> npm instal axios
+
+
+------------------------------------------------------------------
+EXECUTANDO O SERVIDOR E A APLICAÇÃO
+------------------------------------------------------------------
+- Executando a aplicação:
+>>> Em um terminal: npm start
+
+- Executando o servidor:
+>>> Em outro terminal: node .\node_modules\minhas-series-server\index.js
+>>> >>> localhost:3002/api
+
+44 min
