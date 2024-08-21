@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=QP0yCFlvUr8&ab_channel=Ci%C3%AAnciaSemFim   2:40
 https://codesandbox.io/
+https://codesandbox.io/templates
+https://codesandbox.io/p/sandbox/react-new
 -----------------------------------------------
 
 Extensão recomendada:
@@ -35,7 +37,9 @@ Link do Servidor: https://github.com/devpleno/minhas-series-server
 
 
 
-
+------------------------------------------------------------------
+REACT
+------------------------------------------------------------------
 - REACTSTRAP
 https://reactstrap.github.io/?path=/story/home-installation--page
 
@@ -65,10 +69,48 @@ EXECUTANDO O SERVIDOR E A APLICAÇÃO
 >>> Em outro terminal: node .\node_modules\minhas-series-server\index.js
 >>> >>> localhost:3002/api
 
+
 -----------------------------------------------------------------
 REACT VITE
 -----------------------------------------------------------------
 https://vitejs.dev/guide/
 
 npm create vite@latest
+npm run dev
 
+
+-----------------------------------------------------------------
+REACT NEXTJS
+-----------------------------------------------------------------
+https://react.dev/
+
+npx create-next-app@latest
+npm run dev
+
+
+
+-----------------------------------------------------------------
+FIREBASE
+-----------------------------------------------------------------
+prof.drigo
+https://firebase.google.com/?hl=pt
+
+Nome: MyMoney
+Id: mymoney-rd3w-01
+Google Analitcs >>> Não
+Criar projeto
+
+Criando BD
+-----------
+>>> Menu CRIAÇÃO
+	Realtime Database
+	>>> Criar BD
+		>>> USA >>>
+		Iniciar no modo teste [qualquer pessoa pode acessar e modificar os dados]
+
+
+
+APP MyMoney
+-----------
+npx create-react-app mympney
+mpn install axios react-router-dom
