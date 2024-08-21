@@ -1,0 +1,62 @@
+{
+  "series": {
+    "1703883152755": {
+      "name": "La casa de Papel",
+      "genre_id": 1,
+      "comments": "Legal",
+      "poster": "//image.tmdb.org/t/p/original/wnJzgLcf4OCGSiqHsAnkjNdQm7Z.jpg",
+      "background": "//image.tmdb.org/t/p/original/gk1enrMtCVABqJd4ujVwIIeswTT.jpg"
+    },
+    "1703883199444": {
+      "name": "Supernatural",
+      "poster": "//image.tmdb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+      "background": "//image.tmdb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg"
+    },
+    "1704305644267": {
+      "name": "Arquivo X",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1704305722754,
+      "comments": "Serie de ficção",
+      "poster": "//image.tmdb.org/t/p/original/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg",
+      "background": "//image.tmdb.org/t/p/original/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg"
+    },
+    "1704305766437": {
+      "name": "star wars",
+      "poster": "//image.tmdb.org/t/p/original/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg",
+      "background": "//image.tmdb.org/t/p/original/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg"
+    },
+    "1704305787736": {
+      "name": "predator",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1,
+      "comments": "loco",
+      "poster": "//image.tmdb.org/t/p/original/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg",
+      "background": "//image.tmdb.org/t/p/original/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg"
+    },
+    "1704305833171": {
+      "name": "alien",
+      "status": "ASSISTIDO",
+      "genre_id": 1703793372630,
+      "poster": "//image.tmdb.org/t/p/original/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg",
+      "background": "//image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg"
+    }
+  },
+  "genres": {
+    "1": {
+      "name": "Ação"
+    },
+    "2": {
+      "name": "Comédia"
+    },
+    "1703793347164": {
+      "name": "Dionisio"
+    },
+    "1703793372630": {
+      "name": "TERROR"
+    },
+    "1704305722754": {
+      "name": "Ficção"
+    }
+  },
+  "count": 0
+}

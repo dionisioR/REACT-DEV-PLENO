@@ -65,4 +65,10 @@ EXECUTANDO O SERVIDOR E A APLICAÇÃO
 >>> Em outro terminal: node .\node_modules\minhas-series-server\index.js
 >>> >>> localhost:3002/api
 
-44 min
+-----------------------------------------------------------------
+REACT VITE
+-----------------------------------------------------------------
+https://vitejs.dev/guide/
+
+npm create vite@latest
+
