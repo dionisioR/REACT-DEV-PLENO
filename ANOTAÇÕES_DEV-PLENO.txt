@@ -114,3 +114,6 @@ APP MyMoney
 -----------
 npx create-react-app mympney
 mpn install axios react-router-dom
+
+
+https://www.youtube.com/watch?v=EUroKFREXt4&list=PLIeTPQT6t1tnaviY16Wr_6C0rqteEkUQg&index=1
